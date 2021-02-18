@@ -53,4 +53,17 @@ h3 {
 .yellowSpan {
   color: #FECA92;
 }
+
+.contentDiv {
+  text-align: center;
+  padding-top: 60px;
+}
+
+.input {
+  border: none;
+  border-bottom: 2px solid #007A83;
+  text-align: center;
+  font-size: 20px;
+  color: #FECA92;
+}
 /*# sourceMappingURL=style.css.map */
